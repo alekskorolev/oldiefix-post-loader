@@ -1,0 +1,12 @@
+{
+  "name": "oldiefix-post-loader",
+  "version": "0.1.0",
+  "description": "Webpak post loader for fix old IE (<9) wrongs",
+  "main": "index.js",
+  "author": "Aleksandr Korolev",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "polyfill-service": "^3.3.0"
+  }
+}
